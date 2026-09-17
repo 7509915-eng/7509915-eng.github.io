@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background-color: #202737;
+  background-color: #c77dffff;
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -8,7 +8,7 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-color: #3c096cff;
   margin: 20px;
   border-radius: 15px;
   border: 5px solid rgba(118, 0, 233, 0.375);
