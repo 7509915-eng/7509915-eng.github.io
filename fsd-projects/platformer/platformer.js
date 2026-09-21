@@ -51,7 +51,7 @@ $(function () {
  createCollectable("steve", 500, 350, 0, 1, 900, 1000, 2);
     // TODO 4 - Create Cannons
     createCannon("top", 200, 1000);
-    createCannon("right", 450, 2000);
+    createCannon("right", 475, 2000);
     createCannon("bottom", 800, 1500)
 
     // BONUS 4 - DIFFERENT-SIZED PROJECTILES
